@@ -6,7 +6,7 @@ We produce **Artifacts of Understanding** — execution evidence, SHA-pinned ref
 
 ## Methodology
 
-**[AIV Protocol](https://github.com/Black-Box-Research-Labs/aiv-protocol)** — AI Integrity Verification v1.0. A shift-left audit framework evaluating AI vendor reliability: commit hygiene, bug-fix velocity, dependency risk, and contractual alignment.
+**[AIV Protocol](https://github.com/Black-Box-Research-Labs/aiv-protocol)** — AI Integrity Verification v1.0. A shift-left verification framework that generates immutable, auditable proof that AI-assisted code changes were understood, tested, and verified before deployment.
 
 ## Case Studies
 
