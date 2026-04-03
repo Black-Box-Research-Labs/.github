@@ -18,7 +18,7 @@ Thesis: **LOCAL ≠ GLOBAL** — components pass review; integration breaks in p
 
 ## Case Studies
 
-**[Verification Friction in a Series A Agent Company](https://www.blackboxresearchlabs.com/case-studies/cs-verification-friction)** — An approved pull request accrued drift, automation failed to resolve conflicts, and the work was closed unmerged. Significant engineering effort lost after review. Industry pathology: verification load exceeding available bandwidth.
+**[Verification Friction in a Series A Agent Company](https://www.blackboxresearchlabs.com/case-studies/cs-verification-friction)** — An approved pull request accrued drift, automation failed to resolve conflicts, and the work was closed unmerged after 34 days. 1,007 lines of reviewed code converted to unshipped inventory. Industry pathology: verification load exceeding available bandwidth.
 
 **[Oklahoma Blue Thumb Data Validation](https://github.com/Black-Box-Research-Labs/ok-blue-thumb-data-validation)** — Forensic audit of chloride measurement accuracy across citizen science vs. EPA professional monitoring. N=25 paired sites, GLMM, β=−0.433 (p=0.047). Presented at OCLWA 2026.
 
