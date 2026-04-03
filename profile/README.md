@@ -12,7 +12,7 @@ Thesis: **LOCAL ≠ GLOBAL** — components pass review; integration breaks in p
 
 ## Methodology
 
-**[AIV Protocol](https://github.com/Black-Box-Research-Labs/aiv-protocol)** — AI Integrity Verification v1.0. A shift-left verification framework that generates immutable, auditable proof that AI-assisted code changes were understood, tested, and verified before deployment — not just a green CI badge.
+**[AIV Protocol](https://github.com/Black-Box-Research-Labs/aiv-protocol)** — A shift-left verification framework that generates immutable, auditable proof that AI-assisted code changes were understood, tested, and verified before deployment — not just a green CI badge.
 
 **[Flashcore](https://github.com/ImmortalDemonGod/flashcore)** — Reference implementation (production SRS engine). AIV Protocol enforced in CI: packet validation gate, immutable evidence links, artifact-backed verification on every PR.
 
